@@ -1,4 +1,4 @@
-[Windows](https://img.shields.io/badge/Windows-WIP-orange?logo=windows) 
+![Windows](https://img.shields.io/badge/Windows-WIP-orange?logo=windows) 
 # SpecsPlus
 A Java application that displays information about your PC's hardware but better.
 
