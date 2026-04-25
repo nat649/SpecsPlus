@@ -1,4 +1,5 @@
 ![Windows](https://img.shields.io/badge/Windows-WIP-orange?logo=windows) 
+![Linux Supported](https://img.shields.io/badge/Linux-supported-brightgreen?logo=linux)
 # SpecsPlus
 A Java application that displays information about your PC's hardware but better.
 
