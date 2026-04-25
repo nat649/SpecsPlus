@@ -2,6 +2,8 @@
 ![Linux Supported](https://img.shields.io/badge/Linux-supported-brightgreen?logo=linux)
 ![macOS Status](https://img.shields.io/badge/macOS-umh-red?logo=apple)
 
+# verison 0.4 and older are supported on any os its just my recreation (since i lost every thing) who is kinda broken for now 
+
 # SpecsPlus!
 A Java application that displays information about your PC's hardware but better.
 
